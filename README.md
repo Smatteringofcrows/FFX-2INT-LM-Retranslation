@@ -9,7 +9,7 @@ How to access the FFX-2 HD files
 3. Extract the files from there
 
 How to access the code of the Toolpack
-1.Open the toolpack with ILspy or a similar program.
+1. Open the toolpack with ILspy or a similar program.
 
 Where are the text files?
 That's the deal, I don't know. The purpose of this project is finding out where those can be located. I do know a few things though.
